@@ -147,22 +147,6 @@ We follow a two-phase pipeline and use **Macro-F1** as the primary balanced metr
 
 ---
 
-
-## Repository structure
-
-```
-ECG-Heartbeat-Repository/
-├── notebooks/
-│   └── ECG Heartbeat Categorization.ipynb                      
-├── results/                       
-├── README.md                      
-├── requirements.txt               
-├── .gitignore
-└── LICENSE
-```
-
----
-
 ## Notes, limitations & ethics
 
 * **Clinical disclaimer:** This is a research / academic project. The models and results are **not** approved for clinical use. Any deployment in a medical context requires regulatory clearance and clinical validation.
@@ -174,7 +158,7 @@ ECG-Heartbeat-Repository/
 
 ## License & Contact
 
-* **License:** MIT (see `LICENSE` file) — feel free to modify as needed.
+* **License:** MIT (see `LICENSE` file)
 * **Author:** Abdallah Ibraheem — Computer Science Student, Open University of Israel.
   ([LINKEDIN](https://www.linkedin.com/in/abdallah-ibraheem-910b542ba/))
 
@@ -184,6 +168,3 @@ ECG-Heartbeat-Repository/
 
 * MIT-BIH Arrhythmia Database — PhysioNet — for the dataset and annotations.
 
-
-* generate an English ↔ Hebrew bilingual README, or
-* create a short `run.sh` that automates virtualenv creation and opens the HTML notebook. Which would you like next?
